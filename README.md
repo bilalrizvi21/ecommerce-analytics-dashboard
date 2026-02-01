@@ -2,6 +2,8 @@ E-Commerce Analytics Dashboard
 
 Interactive Power BI dashboard that transforms raw sales data into actionable business intelligence
 
+![OVERVIEW](Executive_overview.png)
+
 🎯 The Problem
 Online retailers struggle with:
 
@@ -27,8 +29,13 @@ Channel performance: Website, mobile, Instagram, Facebook breakdown
 Geographic insights: Sales distribution by city/country
 Automated alerts: Flags problems automatically so you don't have to dig
 
+![OVERVIEW](dashboard_filtered_electronics.png)
+
+
 Intelligent Alert System
+
 The dashboard doesn't just show data - it tells you what's broken:
+
 ![ALERTS](alert_panel_insights.png)
 
 Sample insights generated:
