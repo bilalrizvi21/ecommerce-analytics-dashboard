@@ -14,6 +14,7 @@ Interactive Power BI dashboard that transforms raw sales data into actionable bu
 * [📫 Contact](#-contact)
 
 🎯 The Problem
+
 Online retailers struggle with:
 
 Hidden profit leaks - Products with high revenue but razor-thin margins
@@ -25,6 +26,7 @@ Scattered data - Information spread across Shopify, Google Analytics, Facebook A
 Result: 30-40% of potential profit left on the table.
 
 ✨ The Solution
+
 A comprehensive 4-page Power BI dashboard that automatically:
 ✅ Identifies profit killers (high-revenue, low-margin products)
 ✅ Flags marketing waste (poor ROAS channels)
@@ -34,6 +36,7 @@ A comprehensive 4-page Power BI dashboard that automatically:
 ✅ Forecasts revenue trends (3-month projections)
 
 📊 Key Features
+
 1. Executive Overview
 
 Real-time KPIs: Revenue, profit margin, AOV, order volume
@@ -65,7 +68,8 @@ Geographic distribution: Customer location mapping
 ![Customer Analytics](screenshots/customer_analytics.png)
 
 🛠️ Technical Stack
-Core Technologies
+
+**Core Technologies:**
 
 Power BI Desktop - Dashboard development and visualization
 DAX - 30+ custom measures for calculations and business logic
@@ -77,14 +81,14 @@ NumPy - Numerical operations
 
 
 
-Data Architecture
+**Data Architecture:**
 
 Data Model: Star schema with 5 dimension tables
 Relationships: One-to-many between fact and dimension tables
 Row Count: 13,000+ transactions, 3,000 customers, 25 products
 Time Period: 12 months (Jan 2024 - Dec 2024)
 
-Key Technical Features
+**Key Technical Features:**
 
 Time intelligence calculations (YoY, MoM growth)
 Conditional formatting with dynamic thresholds
@@ -93,7 +97,7 @@ Automated insight generation using DAX logic
 Interactive slicers with preset date ranges
 RFM customer segmentation algorithm
 
-🚀 Installation & Setup
+**🚀 Installation & Setup:**
 Prerequisites
 
 Power BI Desktop (free) - Download here
@@ -103,20 +107,25 @@ Option 1: Quick Start (Use Pre-Generated Data)
 
 Clone the repository
 
-bash   git clone https://github.com/bilalrizvi21/ecommerce-analytics-dashboard.git
+bash   
+git clone https://github.com/bilalrizvi21/ecommerce-analytics-dashboard.git
    cd ecommerce-analytics-dashboard
 
 Open the dashboard
 
 Double-click Ecommerce_Dashboard_Portfolio.pbix
+
 Power BI Desktop will open automatically
+
 Data is already loaded and ready to explore
 
 
 Start exploring!
 
 Click through the 4 pages
+
 Use slicers to filter by date, category, channel
+
 Hover over visuals for detailed tooltips
 
 
@@ -135,73 +144,102 @@ bash   cd scripts
 Load into Power BI
 
 Open Ecommerce_Dashboard_Portfolio.pbix
+
 Home → Transform Data → Data source settings
+
 Point to newly generated CSV files in /data folder
+
 Refresh
 
-🎓 Key Learnings
+**🎓 Key Learnings**:
+
 This project demonstrates:
+
 Technical Skills
 
-Advanced DAX measure creation (time intelligence, customer segmentation)
-Data modeling with star schema design
-ETL pipeline development using Power Query
-Python for data generation and automation
-Conditional formatting and dynamic visualizations
+- Advanced DAX measure creation (time intelligence, customer segmentation)
 
-Business Analytics
+- Data modeling with star schema design
 
-Customer segmentation using RFM methodology
-Marketing attribution and ROAS analysis
-Product profitability tracking
-Inventory health monitoring
-Revenue forecasting techniques
+- ETL pipeline development using Power Query
 
-Data Storytelling
+- Python for data generation and automation
 
-Translating complex data into actionable insights
-Designing executive-friendly dashboards
-Creating automated alert systems
-Building business recommendations from data
+- Conditional formatting and dynamic visualizations
+
+**Business Analytics**:
+
+- Customer segmentation using RFM methodology
+
+- Marketing attribution and ROAS analysis
+
+- Product profitability tracking
+
+- Inventory health monitoring
+
+- Revenue forecasting techniques
+
+**Data Storytelling**:
+
+- Translating complex data into actionable insights
+
+-Designing executive-friendly dashboards
+
+- Creating automated alert systems
+
+- Building business recommendations from data
 
 
-📝 Use Cases
+**📝 Use Cases**:
+
 For E-commerce Managers
 
-Identify profit leaks in under 5 minutes
-Make data-driven inventory decisions
-Optimize product mix based on profitability
+- Identify profit leaks in under 5 minutes
+
+- Make data-driven inventory decisions
+
+- Optimize product mix based on profitability
 
 For Marketing Teams
 
-See true ROAS by channel and campaign
-Understand customer acquisition costs
-Reallocate budgets to highest-performing channels
+- See true ROAS by channel and campaign
+
+- Understand customer acquisition costs
+
+- Reallocate budgets to highest-performing channels
 
 For Executives
 
-Single source of truth for business health
-Revenue forecasting for financial planning
-Quick identification of growth opportunities
+- Single source of truth for business health
 
-📫 Contact
+- Revenue forecasting for financial planning
+
+- Quick identification of growth opportunities
+
+**📫 Contact**
+
 Bilal Rizvi
 
 LinkedIn: linkedin.com/in/rizvibilal
+
 GitHub: github.com/bilalrizvi21
+
 Email: whomebilal11@gmail.com
 
-Need a custom analytics dashboard for your business?
+**Need a custom analytics dashboard for your business?**
 I specialize in transforming complex data into clear, actionable insights for e-commerce and retail businesses. Let's talk about your data challenges.
 
 🙏 Acknowledgments
 
 Dataset structure inspired by real e-commerce transaction patterns
+
 Dashboard design principles from Microsoft Power BI best practices
+
 Color schemes optimized for accessibility and business context
 
 
-⭐ Star History
+**⭐ Star:**
+
 If you found this project helpful, please consider giving it a star!
 
 
