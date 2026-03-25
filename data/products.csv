@@ -1,0 +1,27 @@
+id,name,category,subcategory,cost,price,brand,StockLevel,ReorderPoint
+P001,Wireless Headphones Pro,Electronics,Audio,45,89.99,SoundMax,14,30.400000000000002
+P002,Smart Watch Ultra,Electronics,Wearables,120,249.99,TechFit,485,97.0
+P003,Bluetooth Speaker Mini,Electronics,Audio,25,49.99,SoundMax,398,79.60000000000001
+P004,Laptop Stand Aluminum,Electronics,Accessories,18,39.99,DeskPro,5,64.0
+P005,USB-C Hub 7-in-1,Electronics,Accessories,22,45.99,ConnectAll,156,31.200000000000003
+P006,Winter Jacket Premium,Clothing,Outerwear,68,79.99,UrbanStyle,121,24.200000000000003
+P007,Cotton T-Shirt Basic,Clothing,Tops,8,24.99,Essentials,238,47.6
+P008,Denim Jeans Classic,Clothing,Bottoms,22,59.99,UrbanStyle,70,14.0
+P009,Running Shorts Sport,Clothing,Activewear,12,34.99,ActiveFit,152,30.400000000000002
+P010,Hoodie Comfort,Clothing,Tops,18,49.99,Essentials,171,34.2
+P011,Throw Pillow Set 2pc,Home & Garden,Decor,14,39.99,CozyHome,264,52.800000000000004
+P012,LED Desk Lamp,Home & Garden,Lighting,16,42.99,BrightSpace,380,76.0
+P013,Plant Pot Ceramic 3pc,Home & Garden,Garden,11,29.99,GreenThumb,137,27.400000000000002
+P014,Wall Clock Modern,Home & Garden,Decor,13,34.99,TimeStyle,422,84.4
+P015,Garden Tool Set 5pc,Home & Garden,Garden,19,44.99,GreenThumb,149,29.8
+P016,Yoga Mat Premium,Sports,Fitness,15,44.99,FitnessPro,409,81.80000000000001
+P017,Resistance Bands Set,Sports,Fitness,9,29.99,FitnessPro,201,40.2
+P018,Water Bottle 32oz,Sports,Accessories,7,24.99,HydroFlow,180,36.0
+P019,Foam Roller,Sports,Fitness,11,32.99,FitnessPro,199,39.800000000000004
+P020,Jump Rope Pro,Sports,Fitness,6,19.99,ActiveFit,358,71.60000000000001
+P021,Face Serum Vitamin C,Beauty,Skincare,12,39.99,GlowLabs,9,61.400000000000006
+P022,Moisturizer Daily,Beauty,Skincare,10,34.99,GlowLabs,393,78.60000000000001
+P023,Makeup Brush Set 12pc,Beauty,Tools,15,49.99,BeautyPro,463,92.60000000000001
+P024,Hair Oil Argan,Beauty,Haircare,8,27.99,LuxeLocks,343,68.60000000000001
+P025,Sunscreen SPF 50,Beauty,Skincare,9,29.99,GlowLabs,435,87.0
+P026,Old Phone Case,Electronics,Accessories,5,14.99,Generic,241,48.2

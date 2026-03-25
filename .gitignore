@@ -1,0 +1,27 @@
+# Power BI temp files
+*.tmp
+~$*.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Large files (if .pbix is too big for GitHub)
+# Uncomment next line if your .pbix file exceeds 25MB
+# *.pbix
